@@ -1,1 +1,1 @@
-# K-Means-GMM-on-Speech-and-Handwritten-
+# K-Means-GMM-on-Speech-and-Handwritten
